@@ -3,12 +3,12 @@
 
 # 📊 Blinkit Sales Data Analysis
 
-📌 **Project Overview**
+# 📌 **Project Overview**
 
 This project is an Exploratory Data Analysis (EDA) of Blinkit sales data using Python.
 The goal of the project is to analyze product sales, identify patterns, understand correlations between features, and generate business insights from the dataset.
 
-🛠️ **Tools & Libraries Used**
+# 🛠️ **Tools & Libraries Used**
 
 1.Python
 
@@ -18,7 +18,7 @@ The goal of the project is to analyze product sales, identify patterns, understa
 
 4. Seaborn → Advanced visualizations (barplots, histograms, heatmaps)
 
-🔑 **Key Steps in Analysis**
+# 🔑 **Key Steps in Analysis**
 
 1.Data Cleaning
 
@@ -40,7 +40,7 @@ The goal of the project is to analyze product sales, identify patterns, understa
 
 10.Generated a heatmap to check relationships between numerical features such as sales, item visibility, and item weight
 
-**Insights & Observations**
+# **Insights & Observations**
 
 1.Certain outlet types perform significantly better in sales
 
@@ -48,7 +48,7 @@ The goal of the project is to analyze product sales, identify patterns, understa
 
 3.Weak but noticeable correlations between numerical features
 
-📷 **Sample Visualizations**
+ # 📷 **Sample Visualizations**
 
 Sales distribution plots
 
@@ -56,17 +56,21 @@ Category-wise sales bar charts
 
 Correlation heatmap
 
-**🚀 How to Run the Project**
-
-1. Clone this repository
-
-```bash
-  git clone https://github.com/your-username/blinkit-sales-analysis.git
-  cd blinkit-sales-analysis```
-
-2. Install dependencies
- ```bash
-   pip install -r requirements.txt```
+# 🚀 How to Run the Project
 
 
-3. Run Jupyter Notebook and Open Blinkit Analysis in Python.ipynb and run the cells
+1.**Clone this repository**
+
+```sh
+git clone https://github.com/your-username/blinkit-sales-analysis.git
+cd blinkit-sales-analysis
+```
+
+2. **Install dependencies**
+
+```sh
+pip install -r requirements.txt
+```
+
+3. **Run Jupyter Notebook**
+   Open jupyter notebook and Then open "Blinkit Analysis in Python.ipynb" and run all the cells.
